@@ -12,5 +12,7 @@
 
 裡面的文件分類
 1）研究文章：file -> research_pdf / 探討華文流行情歌歌詞與產生情感的關聯性.pdf （更仔細的，和code一起的可以看file/hackmd）
+
 2）執行的python code: file -> python / 4個執行code
+
 3）其他的file 有分類不同組別 （ptt,dcard,kkbox,jj,jay），裡面是txt和文字雲。
